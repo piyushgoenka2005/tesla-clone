@@ -20,7 +20,7 @@ Welcome to the Tesla Clone repository! This project is a fully responsive web ap
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tesla-clone.git
+   git clone https://github.com/piyushgoenka2005/tesla-clone.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
