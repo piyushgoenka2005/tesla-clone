@@ -14,8 +14,7 @@ Welcome to the Tesla Clone repository! This project is a fully responsive web ap
 
 - **React JS**: For building a dynamic and responsive user interface.
 - **HTML5**: For the structure and layout of the application.
-- **CSS3 & Tailwind CSS**: For styling and ensuring responsiveness across devices.
-- **JavaScript (ES6+)**: For interactivity and dynamic content management.
+- **CSS3**: For styling and ensuring responsiveness across devices.
 
 ## Getting Started
 
